@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexb\\Desktop\\New folder (2)\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\alexb\\desktop\\new folder (2)\\my project\\assets\\scripts\\object_mesh_interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\object_mesh_interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\alexb\\desktop\\new folder (2)\\my project\\assets\\scripts\\mesh_interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mesh_interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\alexb\\Desktop\\New folder (2)\\My project\\assets\\scripts\\mesh_deformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mesh_deformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "object_mesh_interaction.cs",
+              "DocumentMoniker": "C:\\Users\\alexb\\Desktop\\New folder (2)\\My project\\Assets\\Scripts\\object_mesh_interaction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\object_mesh_interaction.cs",
+              "ToolTip": "C:\\Users\\alexb\\Desktop\\New folder (2)\\My project\\Assets\\Scripts\\object_mesh_interaction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\object_mesh_interaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:40:41.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mesh_Interaction.cs",
+              "DocumentMoniker": "C:\\Users\\alexb\\Desktop\\New folder (2)\\My project\\Assets\\Scripts\\Mesh_Interaction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mesh_Interaction.cs",
+              "ToolTip": "C:\\Users\\alexb\\Desktop\\New folder (2)\\My project\\Assets\\Scripts\\Mesh_Interaction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mesh_Interaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:22:04.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mesh_Deformer.cs",
+              "DocumentMoniker": "C:\\Users\\alexb\\Desktop\\New folder (2)\\My project\\Assets\\Scripts\\Mesh_Deformer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mesh_Deformer.cs",
+              "ToolTip": "C:\\Users\\alexb\\Desktop\\New folder (2)\\My project\\Assets\\Scripts\\Mesh_Deformer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mesh_Deformer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:15:31.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
